@@ -1,7 +1,5 @@
 # Project Poker
 
-
-## Genre
 Poker-based Roguelike Deckbuilder
 
 ## Platform
